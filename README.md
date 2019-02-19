@@ -1,4 +1,4 @@
-# small-java-projects
+# Small Java Projects
 
 This repository is inspired by these two links:
 
